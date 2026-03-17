@@ -4,13 +4,13 @@
     "name": "Alice Johnson",
     "course": "CS201 - Data Structures",
     "enrollmentDate": "2025-09-01",
-    "grade": 12
+    "grade": "12"
   },
   {
     "studentId": "S1002",
     "name": "Bob Martinez",
     "course": "MATH301 - Linear Algebra",
     "enrollmentDate": "2025-09-01",
-    "grade": 5
+    "grade": "5"
   }
 ]
